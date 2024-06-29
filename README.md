@@ -1,5 +1,5 @@
 # hello-world
-Greetings for everz
+Greetings for everybody
 
 yip
 yee
